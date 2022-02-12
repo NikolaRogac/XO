@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#10F0F0"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tvtitle"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="DOBRODOSLI U IKS-OKS!"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:layout_marginTop="15dp"/>
+
+    <Button
+        android:id="@+id/btnigraj"
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:text="IGRAJ"
+        android:textSize="25dp"
+        android:layout_gravity="center_horizontal"
+        android:background="#109EF0"
+        android:layout_marginTop="15dp" />
+
+    <Button
+        android:id="@+id/btnoigri"
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:text="O IGRI"
+        android:textSize="25dp"
+        android:layout_gravity="center_horizontal"
+        android:background="#109EF0"
+        android:layout_marginTop="10dp" />
+
+    <TextView
+        android:id="@+id/tvcredits"
+        android:layout_width="match_parent"
+        android:layout_height="108dp"
+        android:layout_marginTop="100dp"
+        android:gravity="center"
+        android:text="Kreirano od strane Nikole Rogaca :D"
+        android:textStyle="italic"
+        android:textSize="30sp" />
+
+    <ImageView
+        android:id="@+id/iv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="125dp"
+        android:src="@drawable/ic_launcher_foreground" />
+
+
+</LinearLayout>
+
+
+
+

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#10F0F0"
+    tools:context=".SecondActivity">
+
+    <TextView
+        android:id="@+id/tvaboutgame1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="***O IGRI***"
+        android:textSize="25sp"
+        android:layout_marginTop="15dp"/>
+
+    <TextView
+        android:id="@+id/tvaboutgame2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dobro_dosli_u_iks_oks_zanimljivu_igru_koja_se_igra_protiv_kompjutera"
+        android:textSize="25sp"
+        android:layout_marginTop="15dp"/>
+
+    <TextView
+        android:id="@+id/tvaboutgame3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pravila_igre_nisu_teska_sve_sto_treba_znati_jeste_da_treba_da_se_potrudite_da_povezete_3_polja_na_tabli_istim_znakom_bilo_to_vertikalno_horizontalno_ili_po_dijagonali"
+        android:textSize="25sp"
+        android:layout_marginTop="15dp"/>
+
+    <TextView
+        android:id="@+id/tvaboutgame4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/uzivajte"
+        android:textSize="25sp"
+        android:layout_marginTop="15dp"/>
+
+
+
+
+</LinearLayout>

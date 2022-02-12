@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IksOksAssignment</string>
+    <string name="uzivajte">UZIVAJTE!!!</string>
+    <string name="Dobro_dosli_u_iks_oks_zanimljivu_igru_koja_se_igra_protiv_kompjutera">Ddobro dosli u iks oks zanimljivu igru koja se igra protiv kompjutera.</string>
+    <string name="pravila_igre_nisu_teska_sve_sto_treba_znati_jeste_da_treba_da_se_potrudite_da_povezete_3_polja_na_tabli_istim_znakom_bilo_to_vertikalno_horizontalno_ili_po_dijagonali">Pravila igre nisu teska,sve sto treba znati jeste da treba da se potrudite da povezete 3 polja na tabli istim znakom bilo to vertikalno,horizontalno ili po dijagonali.</string>
+    <string name="dobro_dosli_u_iks_oks_zanimljivu_igru_koja_se_igra_protiv_kompjutera">Dobro dosli u iks-oks zanimljivu igru koja se igra protiv kompjutera.</string>
+</resources>
